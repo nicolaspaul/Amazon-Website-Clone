@@ -1,3 +1,1 @@
-# New Project
-
-This is a project of Amazon website clone.
+This is a project of Amazon website clone. It is made using HTML and CSS.
